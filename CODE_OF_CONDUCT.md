@@ -1,0 +1,1 @@
+He agregado un archivo CODE_OF_CONDUCT.md basado en el Contributor Covenant v2.1. Este archivo establece un conjunto de normas para mantener una comunidad inclusiva, libre de acoso y respetuosa para todos los colaboradores.
